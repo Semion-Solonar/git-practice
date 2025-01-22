@@ -1,41 +1,9 @@
-# Git Practice Task  
+**Task number 1** 
+1. HTML: Should have `main`, 2 `sections`, 1 `aside`, and 2 `article` tags.
+2. CSS: Contents of 1 section should be aligned using flexbox - row. Section that is using flexbox should have a heading, a 3 child `<div>` elements inside it.
+3. They should be aligned to the bottom of the section, and justified to the left of it.
+4. Each child `<div>` should be of a different color, and each of these colors should contrast the parent section element.
+5. Your whole HTML should also have 1 element of choice that is targeted in CSS by it's id # and 3 elements targeted by it's class .
 
-## Instructions  
 
-1. **Clone this repository to your local machine**:  
-   - Open a terminal (PowerShell, CMD, or Terminal in VS Code).  
-   - Navigate to your desired project folder:  
-     ```bash
-     mkdir local-projects  
-     cd local-projects  
-     ```  
-   - Clone the repository using:  
-     ```bash
-     git clone your-github-repository-link  
-     ```  
-
-2. **Navigate to the repository folder**:  
-   ```bash
-   cd your-github-repository-name
-
-3. **Open the project in VS Code:**:
-   - Run:
-     ```bash
-     code .
-     ```
-   - Alternatively, open VS Code, go to `File > Open Folder`, and select the repository folder.
-
-4. **Create and set up files:**:
-   -Create `index.html` and `styles.css`.
-   -Add boilerplate HTML using Emmet `(! + Tab)` or copy a starter template.
-   -Link the CSS file in the HTML using a `<link>` tag.
-
-5. **Push your changes to GitHub**:
-   - Run the following commands:
-     ```
-     git add .  
-     git commit -m "Initial commit: Added HTML and CSS files"  
-     git push origin main
-     ```
-     
-   
+![image](https://github.com/user-attachments/assets/a22acbd3-46a4-4c2c-a451-1d6c265e6d92)
