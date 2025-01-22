@@ -1,0 +1,66 @@
+
+#section1 {
+    background-color: pink;
+    display: flex;
+    flex-direction: column ;
+    
+}
+
+h1 {
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#section1 .container .div1,.div2, .div3 {
+    height: 30px;
+    width: 30px;
+}
+
+#section1 .div1 {
+    background-color: blue;
+}
+
+#section1 .div2 {
+    background-color: red;
+}
+
+#section1 .div3 {
+    background-color: green;
+}
+
+section {
+    background-color: lightblue;
+ 
+}
+
+article {
+    background-color: yellowgreen;
+   
+}
+
+aside {
+    background-color: yellow;
+    
+
+}
+
+img {
+    border-radius: 50%;
+    box-shadow: inset   0 0 10px 10px rgba(0, 0, 0, 0.5);
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+
+    
+    
+}
+
+
+
